@@ -1,0 +1,26 @@
+.header1{
+    background-color: #383838;
+}
+
+.about-text{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.about-para{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: #383838;
+    color: white;
+}
+
+li{
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: white;
+}
+
